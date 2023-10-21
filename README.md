@@ -27,7 +27,7 @@ Assurez vous d'avoir egalement votre navigateur comme application de MAILTO par 
 
 ## Comment ça marche ?
 
-Lorsque vous naviguez dans vos messages privés sur JeuxVideo.com, un bouton "Demande de deban" apparaîtra. Cliquez dessus pour générer un e-mail aléatoire pour la demande de débannissement. Le script utilisera votre pseudo comme référence et ajoutera un contenu de message approprié.
+Lorsque vous naviguez dans vos messages privés sur JeuxVideo.com, un bouton "Demande de deban" apparaîtra. Cliquez dessus pour générer un e-mail pour la demande de débannissement. Le script utilisera votre pseudo comme référence et ajoutera un contenu de message approprié.
 
 ## Contributeur
 
