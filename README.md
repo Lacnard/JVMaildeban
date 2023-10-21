@@ -1,6 +1,7 @@
 # JVMaildeban
 
 JVMaildeban est un userscript qui facilite l'envoi de courriels pour demander un débannissement sur le site [JeuxVideo.com](https://www.jeuxvideo.com/). Il génère un sujet de mail, y ajoute le pseudo en question et un début de message aléatoires pour votre demande de débannissement le script est optimiser pour [protonmail](https://proton.me/fr/mail).
+
 ![alt text](https://image.noelshack.com/fichiers/2023/42/6/1697923810-image.png)
 ## Fonctionnalités
 
